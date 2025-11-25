@@ -1,6 +1,6 @@
 //import { useState } from 'react'
 
-import HeaderComponent from './components/Header';
+import HeaderComponent from './components/HeaderComponent';
 
 import './index.css'
 
