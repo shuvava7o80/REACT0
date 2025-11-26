@@ -1,6 +1,7 @@
 //import { useState } from 'react'
 
-import HeaderComponent from './components/HeaderComponent';
+import HeaderComponent from './components/HeroSection';
+import HeroSection from './components/HeroSection';
 
 import './index.css'
 
@@ -12,6 +13,7 @@ function App() {
     <>
       <div>
         <HeaderComponent />
+        <HeroSection />
       </div>
     </>
   )
