@@ -1,26 +1,26 @@
 @import "tailwindcss";
 
-.kart{
-    background: url(git/kart.svg);
+.picture{
+    background: url(/picture.svg);
     background-size: cover;
     background-position: center;
 }
-.ll{
+.buttonGlass{
     background-color: rgb(16, 170, 85);
     opacity: 1;
     transition: opacity 0.3s ease;
 }
-.ll:hover {
+.buttonGlass:hover {
     opacity: 0.1;
 }
 
-.vv{
+.buttonBig{
     background-color: rgb(16, 170, 85);
     opacity: 1;
     transition: opacity 0.3s ease;
 }
 
-.vv{
+.buttonBig:hover{
     opacity: 0.5;
 }
 

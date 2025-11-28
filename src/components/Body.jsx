@@ -3,7 +3,7 @@ import HeaderComponent from './Header'
 
 const BodyComponent = () => {
   return (
-    <div className='kart'>
+    <div className='picture'>
         <HeaderComponent />
         <div className='p-25 30'>
           {/* НЕБОЛЬШАЯ ЖЕСТЬ */}
